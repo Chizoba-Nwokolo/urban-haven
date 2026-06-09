@@ -91,7 +91,7 @@ header nav a:hover {
     width: 100%;
     min-height: calc(100vh - 4.5rem);
     background-color: rgb(220, 220, 225);
-    background-image: url(/UrbanHeaven/images/hero.jpg);
+    background-image: url(../images/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
